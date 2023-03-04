@@ -1,0 +1,7 @@
+[wrap-git]
+url = https://github.com/mm2/little-cms.git
+revision = head
+clone-recursive = false
+
+[provide]
+lcms2 = liblcms2_dep
