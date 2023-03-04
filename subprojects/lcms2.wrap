@@ -1,6 +1,6 @@
 [wrap-git]
-url = https://github.com/mm2/little-cms.git
-revision = head
+url = https://github.com/amyspark/little-cms.git
+revision = 63db3114502c93fdf1c6f2e2166a9b9a0c144ebf
 clone-recursive = false
 
 [provide]
